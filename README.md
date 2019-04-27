@@ -1,6 +1,6 @@
 # Einführung &amp; Praxisreport: Co-Routinen als Generatoren
 
-Vortrag für [ADC++2018]() (14.-16. Mai 2018 in Burghausen)
+Vortrag für [ADC++2018](http://www.adcpp.de/2018) (14.-16. Mai 2018 in Burghausen)
 
 ## Tech
 
@@ -23,7 +23,7 @@ Especially the slide code is aimed to fit on slides and lacks a lot of best prac
 
 ## Slides
 
-All slides ar in German.
+All slides are in German.
 
 You can view slides at https://arbmind.github.io/2018-cogen-de
 
